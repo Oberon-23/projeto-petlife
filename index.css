@@ -179,6 +179,7 @@ footer p a {
 #copyright a {
   color: orangered;
 }
+<<<<<<< HEAD
 
 footer {
   flex-direction: column;
@@ -228,3 +229,5 @@ footer {
   }
 
 
+=======
+>>>>>>> 69dccbdf30da38461659acc17c6c5b2532cf6734

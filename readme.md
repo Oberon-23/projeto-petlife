@@ -57,8 +57,3 @@ Siga os passos abaixo para rodar o projeto localmente em sua máquina:
 4. Envie a branch para o repositório remoto (`git push origin minha-alteracao`).
 5. Abra um Pull Request.
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-

@@ -1,17 +1,17 @@
-# PetLife
+# PetLife - Primeiro Projeto feito quando comecei na programação.
 
 **PetLife** é um site fictício desenvolvido para representar uma clínica veterinária e petshop com serviços completos. O objetivo principal foi criar uma plataforma visualmente atraente, funcional e responsiva, proporcionando uma experiência fluida e acessível para os usuários.
 
 ## 📌 Tecnologias Utilizadas
 
 - **HTML5**: Estruturação semântica e acessível.
-- **CSS3**: Design responsivo, animações e transições suaves.
+- **CSS3**: Design responsivo, animações e transições suaves. (Ainda me atualizando sobre os desgins responsivos daqui)
 - **JavaScript**: Interatividade dinâmica, incluindo a funcionalidade de perguntas frequentes (FAQ).
 - **Google Fonts**: Uso da fonte "Montserrat" para uma tipografia moderna e agradável.
 
 ## 🚀 Funcionalidades do Projeto
 
-- **Design Responsivo**: O layout foi desenvolvido para garantir uma ótima experiência de usuário tanto em dispositivos móveis quanto em desktops.
+- **Design Responsivo**: O layout foi desenvolvido para garantir uma ótima experiência de usuário tanto em dispositivos móveis quanto em desktops. (Ainda desenvolvendo) 
 - **Seção de Serviços**: Apresentação clara dos serviços oferecidos pela clínica veterinária e petshop, como consultas veterinárias, atendimento de emergência e serviços diversos.
 - **FAQ Interativo**: Perguntas frequentes com interatividade, onde as respostas se expandem ao clicar nas perguntas. Utilizando JavaScript para alternar o estado de expansão.
 - **Botões de Ação**: Links para agendamento via WhatsApp, proporcionando uma ação rápida para os visitantes agendarem consultas.

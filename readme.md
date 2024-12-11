@@ -20,7 +20,7 @@
 ## 📸 Demonstração
 
 Aqui está uma demonstração do site:
-- **Visualização ao Vivo**: [[https://petlife-teste-bdniq37py-oberon-23s-projects.vercel.app/](#)](https://petlife-teste.vercel.app/)
+- **Visualização ao Vivo**: (https://petlife-teste.vercel.app/)
 
 ## ⚙️ Como Rodar o Projeto Localmente
 
